@@ -33,9 +33,11 @@ public class JavaApplication3 {
         {
     if (total>=60){
     System.out.println("El alumno esta aprobado");
+     
 }
     else if (total<=59){
     System.out.println("El alumno esta reprobado");
+     System.out.println("Mala suerte");
 }
 }
     }
